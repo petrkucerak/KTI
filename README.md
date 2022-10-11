@@ -1,1 +1,3 @@
-# KTI
+# Komunikační technologie pro IoT - B0B32KTI
+
+Podstatou technologií internetu věcí je přenos informací, komunikace věcí mezi sebou a zejména možnost vývoje nových typů služeb. Předmět ve zjednodušené formě představuje základy digitální komunikace, zejména bezdrátové, se zaměřením na konkrétní komunikační protokoly v IoT, a to nejen v průmyslových aplikacích. IoT je chápán jako komplexní systém s možností využití existujících komponet, vývojových a prezentačních prostředí pro zpracování a vizualizaci dat, včetně pojetí IoT jako služby. Součástí cvičení je seznámení s konkrétními technologiemi v laboratoři a řešení projektů individuálně i v týmu.
