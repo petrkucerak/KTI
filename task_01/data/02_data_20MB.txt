@@ -1,0 +1,1082 @@
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:52:39  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:52:44  all    83     0   47    0       29       0      0      0    40
+14:52:44    0    47     0   17    0       14       0      0      0    22
+14:52:44    1    37     0   31    0       15       0      0      0    18
+
+14:52:39  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:52:44     3780M    588M     87M  1058M    0M    193M     2716M   2371M
+
+14:52:39  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:52:44  mmcblk0          2%    0.0     0.0    45.9     8.2   0.3   0.45 ms
+
+14:52:39  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:52:44  lo        ?     6.4     6.4        0        0     0     0       0
+14:52:44  enp2s0   6%  8129.6  7762.6     8004     7889    65    64    1000 f
+14:52:44  enp3s0   6%  7766.6  8133.8     7901     8001    64    65    1000 f
+14:52:44  br0       ? 15895.4     0.0    15687        0   128     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:52:44  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:52:49  all    74     0   40    0       28       0      0      1    57
+14:52:49    0    43     0   14    0       14       0      0      0    28
+14:52:49    1    31     0   26    0       14       0      0      1    29
+
+14:52:44  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:52:49     3780M    588M     87M  1058M    0M    193M     2716M   2371M
+
+14:52:44  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:52:49  mmcblk0          5%    0.0     0.0    67.5     8.2   0.5   0.67 ms
+
+14:52:44  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:52:49  lo        ?    16.6    16.6        2        2     0     0       0
+14:52:49  enp2s0   6%  7814.2  7406.2     7800     7833    63    64    1000 f
+14:52:49  enp3s0   6%  7373.8  7833.0     7788     7839    63    64    1000 f
+14:52:49  br0       ? 15188.0     0.4    15380        0   125     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:52:49  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:52:54  all    75     0   47    0       32       0      0      0    46
+14:52:54    0    40     0   18    0       16       0      0      0    26
+14:52:54    1    35     0   29    0       16       0      0      0    20
+
+14:52:49  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:52:54     3780M    589M     87M  1058M    0M    193M     2716M   2371M
+
+14:52:49  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:52:54  mmcblk0          2%    0.0     0.0     4.7     6.3   7.4   3.83 ms
+
+14:52:49  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:52:54  lo        ?     4.4     4.4        0        0     0     0       0
+14:52:54  enp2s0   6%  7927.4  7563.6     7808     7790    63    63    1000 f
+14:52:54  enp3s0   6%  7554.6  7942.8     7785     7811    63    63    1000 f
+14:52:54  br0       ? 15482.6     0.2    15382        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:52:54  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:52:59  all    84     0   45    0       31       0      0      0    40
+14:52:59    0    36     0   27    0       15       0      0      0    22
+14:52:59    1    47     0   18    0       16       0      0      0    18
+
+14:52:54  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:52:59     3780M    587M     87M  1058M    0M    193M     2716M   2371M
+
+14:52:54  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:52:59  mmcblk0          7%    0.0     0.0    99.4     8.0   0.7   0.69 ms
+
+14:52:54  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:52:59  lo        ?    18.2    18.2        2        2     0     0       0
+14:52:59  enp2s0   6%  7980.8  7639.8     7886     7826    64    64    1000 f
+14:52:59  enp3s0   6%  7674.4  7954.2     7864     7862    64    64    1000 f
+14:52:59  br0       ? 15654.6     0.0    15536        0   127     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:52:59  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:53:04  all   123     0   43    0       28       0      0      0     6
+14:53:04    0    59     0   24    0       14       0      0      0     3
+14:53:04    1    63     0   19    0       14       0      0      0     3
+
+14:52:59  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:53:04     3780M    582M     87M  1058M    0M    193M     2716M   2371M
+
+14:52:59  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:53:04  mmcblk0          3%    0.8     7.0    30.7     7.4   1.1   1.03 ms
+
+14:52:59  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:53:04  lo        ?    21.0    21.0        2        2     0     0       0
+14:53:04  enp2s0   5%  7207.2  7037.6     7297     7199    59    58    1000 f
+14:53:04  enp3s0   5%  7041.8  7193.6     7201     7282    58    59    1000 f
+14:53:04  br0       ? 14249.0     0.0    14303        0   117     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:53:04  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:53:09  all    87     0   44    0       32       0      0      0    37
+14:53:09    0    42     0   24    0       16       0      0      0    19
+14:53:09    1    45     0   20    0       16       0      0      0    18
+
+14:53:04  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:53:09     3780M    587M     87M  1058M    1M    193M     2716M   2371M
+
+14:53:04  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:53:09  mmcblk0          6%    0.0     0.0    90.2     8.7   2.9   0.69 ms
+
+14:53:04  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:53:09  lo        ?    51.4    51.4        6        6     0     0       0
+14:53:09  enp2s0   6%  8387.4  8051.0     8331     8407    68    68    1000 f
+14:53:09  enp3s0   6%  8024.8  8416.6     8383     8356    68    68    1000 f
+14:53:09  br0       ? 16412.2     0.2    16490        0   135     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:53:09  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:53:14  all    83     0   45    0       32       0      0      0    39
+14:53:14    0    46     0   13    0       17       0      0      0    24
+14:53:14    1    37     0   32    0       15       0      0      0    16
+
+14:53:09  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:53:14     3780M    587M     87M  1058M    2M    193M     2716M   2371M
+
+14:53:09  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:53:14  mmcblk0          2%    0.0     0.0    18.9    10.4   3.1   1.22 ms
+
+14:53:09  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:53:14  lo        ?     6.2     6.2        0        0     0     0       0
+14:53:14  enp2s0   6%  7945.2  7521.6     7854     7817    64    64    1000 f
+14:53:14  enp3s0   6%  7548.0  7924.6     7845     7838    64    64    1000 f
+14:53:14  br0       ? 15493.2     0.2    15487        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:53:14  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:53:19  all    70     0   44    0       29       0      0      0    56
+14:53:19    0    31     0   26    0       15       0      0      0    28
+14:53:19    1    39     0   18    0       15       0      0      0    28
+
+14:53:14  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:53:19     3780M    588M     87M  1059M    2M    193M     2716M   2371M
+
+14:53:14  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:53:19  mmcblk0          5%    0.0     0.0    77.7     8.9   0.3   0.59 ms
+
+14:53:14  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:53:19  lo        ?     6.8     6.8        0        0     0     0       0
+14:53:19  enp2s0   6%  7856.2  7475.4     7803     7822    63    64    1000 f
+14:53:19  enp3s0   6%  7436.0  7888.0     7779     7835    63    64    1000 f
+14:53:19  br0       ? 15292.2     0.0    15372        0   125     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:53:19  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:53:24  all    71     0   39    0       34       0      0      1    56
+14:53:24    0    28     0   26    0       17       0      0      0    29
+14:53:24    1    43     0   13    0       17       0      0      1    26
+
+14:53:19  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:53:24     3780M    588M     87M  1059M    2M    193M     2716M   2371M
+
+14:53:19  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:53:24  mmcblk0          5%    0.0     0.0    81.5     8.5   1.3   0.58 ms
+
+14:53:19  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:53:24  lo        ?     6.8     6.8        0        0     0     0       0
+14:53:24  enp2s0   6%  7851.2  7423.6     7868     7781    64    63    1000 f
+14:53:24  enp3s0   6%  7456.0  7823.0     7820     7832    64    64    1000 f
+14:53:24  br0       ? 15306.8     0.2    15479        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:53:24  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:53:29  all    75     0   40    0       29       0      0      0    55
+14:53:29    0    40     0   16    0       14       0      0      0    29
+14:53:29    1    35     0   24    0       14       0      0      0    26
+
+14:53:24  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:53:29     3780M    587M     87M  1059M    2M    193M     2716M   2371M
+
+14:53:24  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:53:29  mmcblk0          1%    0.0     0.0    11.7     6.3  10.7   1.26 ms
+
+14:53:24  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:53:29  lo        ?     6.2     6.2        0        0     0     0       0
+14:53:29  enp2s0   6%  7790.6  7364.0     7810     7826    63    64    1000 f
+14:53:29  enp3s0   6%  7344.4  7799.4     7802     7836    63    64    1000 f
+14:53:29  br0       ? 15135.0     0.4    15405        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:53:29  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:53:34  all    80     0   41    0       28       0      0      1    49
+14:53:34    0    45     0   18    0       14       0      0      1    22
+14:53:34    1    36     0   23    0       14       0      0      0    27
+
+14:53:29  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:53:34     3780M    588M     87M  1059M    2M    193M     2716M   2371M
+
+14:53:29  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:53:34  mmcblk0          9%    0.2     4.0   118.3     8.4   0.5   0.73 ms
+
+14:53:29  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:53:34  lo        ?    19.4    19.4        2        2     0     0       0
+14:53:34  enp2s0   6%  7723.2  7358.2     7796     7788    63    63    1000 f
+14:53:34  enp3s0   6%  7344.6  7740.0     7773     7804    63    63    1000 f
+14:53:34  br0       ? 15068.8     0.2    15364        0   125     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:53:34  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:53:39  all    83     0   42    0       28       0      0      0    47
+14:53:39    0    41     0   22    0       13       0      0      0    24
+14:53:39    1    42     0   20    0       14       0      0      0    23
+
+14:53:34  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:53:39     3780M    588M     87M  1059M    1M    193M     2716M   2371M
+
+14:53:34  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:53:39  mmcblk0          4%    0.0     0.0    82.6     6.7   2.2   0.49 ms
+
+14:53:34  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:53:39  lo        ?     5.2     5.2        0        0     0     0       0
+14:53:39  enp2s0   6%  7742.2  7210.6     7774     7595    63    62    1000 f
+14:53:39  enp3s0   6%  7246.0  7704.2     7636     7736    62    63    1000 f
+14:53:39  br0       ? 14987.2     0.2    15204        0   124     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:53:39  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:53:44  all   120     0   37    0       29       0      0      0    14
+14:53:44    0    59     0   23    0       13       0      0      0     4
+14:53:44    1    60     0   15    0       15       0      0      0    10
+
+14:53:39  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:53:44     3780M    587M     87M  1059M    0M    193M     2716M   2371M
+
+14:53:39  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:53:44  mmcblk0          5%    0.0     0.0    84.9     6.6   4.8   0.60 ms
+
+14:53:39  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:53:44  lo        ?    39.0    39.0        4        4     0     0       0
+14:53:44  enp2s0   6%  7677.4  7537.8     7889     8023    64    65    1000 f
+14:53:44  enp3s0   6%  7514.6  7706.2     7986     7925    65    64    1000 f
+14:53:44  br0       ? 15192.0     0.0    15667        0   128     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:53:44  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:53:49  all    73     0   45    0       28       0      0      1    54
+14:53:49    0    39     0   22    0       14       0      0      1    24
+14:53:49    1    34     0   23    0       14       0      0      0    30
+
+14:53:44  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:53:49     3780M    588M     88M  1059M    0M    193M     2716M   2371M
+
+14:53:44  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:53:49  mmcblk0          5%    0.0     0.0    69.5     8.4   1.3   0.73 ms
+
+14:53:44  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:53:49  lo        ?    11.2    11.2        1        1     0     0       0
+14:53:49  enp2s0   6%  7842.2  7476.6     7814     7783    64    63    1000 f
+14:53:49  enp3s0   6%  7465.2  7847.2     7780     7812    63    63    1000 f
+14:53:49  br0       ? 15307.4     0.0    15385        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:53:49  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:53:54  all    75     0   40    0       28       0      0      0    56
+14:53:54    0    33     0   27    0       13       0      0      0    27
+14:53:54    1    42     0   14    0       15       0      0      0    29
+
+14:53:49  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:53:54     3780M    587M     88M  1059M    0M    193M     2716M   2371M
+
+14:53:49  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:53:54  mmcblk0          2%    0.0     0.0    24.5     7.6   2.8   0.97 ms
+
+14:53:49  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:53:54  lo        ?     5.8     5.8        0        0     0     0       0
+14:53:54  enp2s0   6%  7871.0  7459.2     7867     7806    64    63    1000 f
+14:53:54  enp3s0   6%  7502.4  7853.0     7853     7853    64    64    1000 f
+14:53:54  br0       ? 15373.4     0.0    15510        0   127     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:53:54  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:53:59  all    75     0   42    0       31       0      0      0    52
+14:53:59    0    42     0   19    0       16       0      0      0    22
+14:53:59    1    33     0   22    0       14       0      0      0    30
+
+14:53:54  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:53:59     3780M    587M     88M  1059M    0M    193M     2716M   2371M
+
+14:53:54  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:53:59  mmcblk0          5%    0.0     0.0    69.3     8.3   0.6   0.66 ms
+
+14:53:54  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:53:59  lo        ?     4.4     4.4        0        0     0     0       0
+14:53:59  enp2s0   6%  7918.8  7556.2     7808     7832    63    64    1000 f
+14:53:59  enp3s0   6%  7512.0  7939.8     7785     7828    63    64    1000 f
+14:53:59  br0       ? 15430.8     0.0    15382        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:53:59  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:54:04  all   123     0   41    0       30       0      0      0     6
+14:54:04    0    59     0   24    0       13       0      0      0     3
+14:54:04    1    64     0   16    0       17       0      0      0     3
+
+14:53:59  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:54:04     3780M    582M     88M  1059M    0M    193M     2716M   2371M
+
+14:53:59  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:54:04  mmcblk0          2%    0.0     0.0     7.8     6.7  14.1   2.46 ms
+
+14:53:59  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:54:04  lo        ?    28.0    28.0        3        3     0     0       0
+14:54:04  enp2s0   6%  7690.8  7386.4     7678     7487    62    61    1000 f
+14:54:04  enp3s0   6%  7417.6  7659.6     7523     7643    61    62    1000 f
+14:54:04  br0       ? 15108.4     0.0    14994        0   122     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:54:04  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:54:09  all    93     0   44    0       30       0      0      1    32
+14:54:09    0    47     0   16    0       15       0      0      1    21
+14:54:09    1    45     0   28    0       15       0      0      0    12
+
+14:54:04  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:54:09     3780M    587M     88M  1059M    2M    193M     2716M   2371M
+
+14:54:04  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:54:09  mmcblk0          6%    0.0     0.0    49.2     9.1   1.6   1.13 ms
+
+14:54:04  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:54:09  lo        ?    53.8    53.8        5        5     0     0       0
+14:54:09  enp2s0   6%  8102.2  7744.4     8009     8121    65    66    1000 f
+14:54:09  enp3s0   6%  7738.6  8118.6     8117     8029    66    65    1000 f
+14:54:09  br0       ? 15840.8     0.0    15909        0   130     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:54:09  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:54:14  all   105     0   45    0       27       0      0      0    22
+14:54:14    0    50     0   28    0       12       0      0      0    10
+14:54:14    1    55     0   17    0       15       0      0      0    13
+
+14:54:09  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:54:14     3780M    587M     88M  1059M    2M    193M     2716M   2371M
+
+14:54:09  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:54:14  mmcblk0          5%    0.0     0.0    66.4     8.6   0.5   0.72 ms
+
+14:54:09  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:54:14  lo        ?     6.8     6.8        0        0     0     0       0
+14:54:14  enp2s0   6%  7746.6  7268.6     7693     7556    63    61    1000 f
+14:54:14  enp3s0   6%  7286.4  7723.2     7566     7669    61    62    1000 f
+14:54:14  br0       ? 15033.0     0.0    15054        0   123     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:54:14  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:54:19  all   100     0   38    0       31       0      0      0    31
+14:54:19    0    42     0   29    0       14       0      0      0    15
+14:54:19    1    58     0    9    0       17       0      0      0    16
+
+14:54:14  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:54:19     3780M    587M     88M  1059M    2M    193M     2716M   2371M
+
+14:54:14  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:54:19  mmcblk0          4%    0.2     4.0    49.5     8.3   0.5   0.90 ms
+
+14:54:14  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:54:19  lo        ?    38.8    38.8        3        3     0     0       0
+14:54:19  enp2s0   6%  7905.2  7761.8     7980     8051    65    65    1000 f
+14:54:19  enp3s0   6%  7761.6  7919.6     8062     7985    66    65    1000 f
+14:54:19  br0       ? 15666.8     0.0    15827        0   129     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:54:19  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:54:24  all    81     0   44    0       31       0      0      1    43
+14:54:24    0    39     0   27    0       14       0      0      1    19
+14:54:24    1    42     0   17    0       17       0      0      0    24
+
+14:54:19  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:54:24     3780M    587M     88M  1059M    2M    193M     2716M   2371M
+
+14:54:19  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:54:24  mmcblk0          5%    0.0     0.0    67.5     8.2   3.4   0.71 ms
+
+14:54:19  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:54:24  lo        ?     6.8     6.8        0        0     0     0       0
+14:54:24  enp2s0   6%  8009.6  7627.6     7820     7840    64    64    1000 f
+14:54:24  enp3s0   6%  7611.8  8012.4     7805     7848    63    64    1000 f
+14:54:24  br0       ? 15621.2     0.0    15412        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:54:24  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:54:29  all    84     0   40    0       27       0      0      0    49
+14:54:29    0    38     0   25    0       12       0      0      0    25
+14:54:29    1    46     0   15    0       15       0      0      0    24
+
+14:54:24  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:54:29     3780M    587M     88M  1059M    2M    193M     2716M   2371M
+
+14:54:24  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:54:29  mmcblk0          4%    0.0     0.0    37.4     8.6   1.0   0.95 ms
+
+14:54:24  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:54:29  lo        ?     6.4     6.4        0        0     0     0       0
+14:54:29  enp2s0   6%  7901.6  7537.8     7823     7802    64    63    1000 f
+14:54:29  enp3s0   6%  7514.8  7918.0     7789     7821    63    64    1000 f
+14:54:29  br0       ? 15416.2     0.0    15401        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:54:29  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:54:34  all    75     0   45    0       32       0      0      0    47
+14:54:34    0    40     0   19    0       15       0      0      0    25
+14:54:34    1    35     0   27    0       16       0      0      0    22
+
+14:54:29  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:54:34     3780M    587M     88M  1059M    2M    193M     2716M   2371M
+
+14:54:29  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:54:34  mmcblk0          2%    0.0     0.0    33.9     8.9   0.3   0.63 ms
+
+14:54:29  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:54:34  lo        ?     6.2     6.2        0        0     0     0       0
+14:54:34  enp2s0   6%  7940.0  7563.2     7868     7799    64    63    1000 f
+14:54:34  enp3s0   6%  7606.4  7905.8     7853     7826    64    64    1000 f
+14:54:34  br0       ? 15546.4     0.0    15508        0   127     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:54:34  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:54:39  all    79     0   46    0       26       0      0      0    48
+14:54:39    0    38     0   26    0       14       0      0      0    21
+14:54:39    1    41     0   19    0       13       0      0      0    27
+
+14:54:34  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:54:39     3780M    587M     88M  1059M    2M    193M     2716M   2371M
+
+14:54:34  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:54:39  mmcblk0          2%    0.0     0.0    52.1     7.8   0.3   0.41 ms
+
+14:54:34  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:54:39  lo        ?    10.8    10.8        1        1     0     0       0
+14:54:39  enp2s0   6%  7924.0  7536.2     7808     7836    63    64    1000 f
+14:54:39  enp3s0   6%  7510.6  7945.8     7788     7856    63    64    1000 f
+14:54:39  br0       ? 15434.6     0.0    15385        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:54:39  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:54:44  all    73     0   35    0       30       0      0      1    61
+14:54:44    0    27     0   28    0       15       0      0      1    29
+14:54:44    1    46     0    8    0       14       0      0      1    31
+
+14:54:39  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:54:44     3780M    587M     88M  1059M    0M    193M     2716M   2371M
+
+14:54:39  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:54:44  mmcblk0          8%    0.2     4.0   185.4     6.9   2.2   0.41 ms
+
+14:54:39  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:54:44  lo        ?    17.0    17.0        1        1     0     0       0
+14:54:44  enp2s0   6%  7629.8  7248.8     7811     7774    63    63    1000 f
+14:54:44  enp3s0   6%  7236.0  7639.2     7773     7802    63    63    1000 f
+14:54:44  br0       ? 14865.8     0.0    15381        0   125     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:54:44  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:54:49  all    78     0   35    0       30       0      0      0    56
+14:54:49    0    52     0    8    0       16       0      0      0    24
+14:54:49    1    27     0   27    0       14       0      0      0    32
+
+14:54:44  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:54:49     3780M    586M     88M  1059M    0M    193M     2716M   2371M
+
+14:54:44  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:54:49  mmcblk0          2%    0.0     0.0    16.9    10.0   1.0   1.32 ms
+
+14:54:44  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:54:49  lo        ?     6.4     6.4        0        0     0     0       0
+14:54:49  enp2s0   6%  7804.0  7432.8     7853     7811    64    63    1000 f
+14:54:49  enp3s0   6%  7463.2  7786.6     7843     7841    64    64    1000 f
+14:54:49  br0       ? 15267.2     0.0    15487        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:54:49  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:54:54  all    97     0   44    0       33       0      0      0    26
+14:54:54    0    48     0   26    0       15       0      0      0    11
+14:54:54    1    50     0   18    0       17       0      0      0    15
+
+14:54:49  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:54:54     3780M    588M     88M  1059M    0M    193M     2716M   2371M
+
+14:54:49  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:54:54  mmcblk0          4%    0.0     0.0    48.0     8.7   0.5   0.80 ms
+
+14:54:49  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:54:54  lo        ?     6.0     6.0        0        0     0     0       0
+14:54:54  enp2s0   6%  7941.6  7693.2     7808     7835    63    64    1000 f
+14:54:54  enp3s0   6%  7653.8  7966.4     7792     7831    63    64    1000 f
+14:54:54  br0       ? 15595.4     0.0    15387        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:54:54  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:54:59  all    79     0   45    0       28       0      0      1    48
+14:54:59    0    37     0   28    0       13       0      0      0    22
+14:54:59    1    41     0   17    0       15       0      0      1    26
+
+14:54:54  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:54:59     3780M    587M     88M  1059M    0M    193M     2716M   2371M
+
+14:54:54  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:54:59  mmcblk0          5%    0.0     0.0    54.2     8.9   2.0   0.92 ms
+
+14:54:54  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:54:59  lo        ?     6.8     6.8        0        0     0     0       0
+14:54:59  enp2s0   6%  7976.0  7519.2     7875     7791    64    63    1000 f
+14:54:59  enp3s0   6%  7542.4  7939.0     7821     7828    64    64    1000 f
+14:54:59  br0       ? 15518.4     0.0    15484        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:54:59  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:55:04  all   132     0   37    0       27       0      0      0     4
+14:55:04    0    62     0   25    0       12       0      0      0     1
+14:55:04    1    70     0   12    0       15       0      0      0     2
+
+14:54:59  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:55:04     3780M    581M     88M  1059M    0M    193M     2716M   2371M
+
+14:54:59  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:55:04  mmcblk0          3%    0.0     0.0    17.6     9.1   2.1   1.59 ms
+
+14:54:59  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:55:04  lo        ?    20.6    20.6        3        3     0     0       0
+14:55:04  enp2s0   5%  7281.0  6996.2     7321     7046    59    57    1000 f
+14:55:04  enp3s0   6%  7010.6  7275.2     7058     7326    57    60    1000 f
+14:55:04  br0       ? 14291.6     0.0    14183        0   116     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:55:04  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:55:09  all   106     0   46    0       32       0      0      0    15
+14:55:09    0    51     0   28    0       14       0      0      0     6
+14:55:09    1    55     0   18    0       18       0      0      0     9
+
+14:55:04  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:55:09     3780M    586M     88M  1059M    1M    193M     2716M   2371M
+
+14:55:04  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:55:09  mmcblk0          6%    0.0     0.0    56.8     9.1   0.4   0.99 ms
+
+14:55:04  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:55:09  lo        ?    84.2    84.2        9        9     0     0       0
+14:55:09  enp2s0   7%  8389.4  8228.0     8294     8600    67    70    1000 f
+14:55:09  enp3s0   7%  8190.4  8429.8     8559     8336    70    68    1000 f
+14:55:09  br0       ? 16579.8     0.0    16626        0   136     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:55:09  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:55:14  all    73     0   44    0       28       0      0      1    54
+14:55:14    0    38     0   17    0       13       0      0      1    31
+14:55:14    1    35     0   27    0       15       0      0      0    23
+
+14:55:09  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:55:14     3780M    587M     88M  1059M    3M    193M     2716M   2371M
+
+14:55:09  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:55:14  mmcblk0          4%    0.0     0.0    31.3    10.1   8.4   1.12 ms
+
+14:55:09  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:55:14  lo        ?     6.8     6.8        0        0     0     0       0
+14:55:14  enp2s0   6%  7860.0  7459.2     7879     7789    64    63    1000 f
+14:55:14  enp3s0   6%  7505.4  7821.2     7848     7829    64    64    1000 f
+14:55:14  br0       ? 15365.6     0.2    15517        0   127     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:55:14  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:55:19  all   119     0   36    0       29       0      0      0    16
+14:55:19    0    66     0    9    0       16       0      0      0     8
+14:55:19    1    53     0   27    0       12       0      0      0     8
+
+14:55:14  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:55:19     3780M    587M     88M  1059M    3M    193M     2716M   2371M
+
+14:55:14  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:55:19  mmcblk0          5%    0.0     0.0    93.0     8.6   0.3   0.59 ms
+
+14:55:14  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:55:19  lo        ?    27.0    27.0        2        2     0     0       0
+14:55:19  enp2s0   6%  7643.2  7262.8     7790     7810    63    63    1000 f
+14:55:19  enp3s0   6%  7240.0  7664.6     7773     7828    63    64    1000 f
+14:55:19  br0       ? 14883.0     0.4    15359        0   125     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:55:19  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:55:24  all    95     0   46    0       28       0      0      0    30
+14:55:24    0    51     0   14    0       14       0      0      0    20
+14:55:24    1    44     0   32    0       13       0      0      0    10
+
+14:55:19  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:55:24     3780M    588M     88M  1059M    3M    193M     2716M   2371M
+
+14:55:19  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:55:24  mmcblk0          4%    0.2     4.0    31.6     9.4   0.6   1.12 ms
+
+14:55:19  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:55:24  lo        ?    65.8    65.8        6        6     0     0       0
+14:55:24  enp2s0   6%  7812.8  7452.6     7808     7798    63    63    1000 f
+14:55:24  enp3s0   6%  7428.4  7824.0     7775     7812    63    63    1000 f
+14:55:24  br0       ? 15240.8     0.4    15375        0   125     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:55:24  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:55:29  all    94     0   39    0       27       0      0      1    39
+14:55:29    0    39     0   26    0       12       0      0      0    23
+14:55:29    1    55     0   13    0       15       0      0      0    16
+
+14:55:24  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:55:29     3780M    586M     88M  1059M    3M    193M     2716M   2371M
+
+14:55:24  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:55:29  mmcblk0          7%    0.2     4.0    67.6     8.8   0.7   0.99 ms
+
+14:55:24  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:55:29  lo        ?     6.8     6.8        0        0     0     0       0
+14:55:29  enp2s0   6%  7680.2  7365.0     7860     7794    64    63    1000 f
+14:55:29  enp3s0   6%  7404.6  7648.0     7843     7821    64    64    1000 f
+14:55:29  br0       ? 15084.8     0.0    15497        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:55:29  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:55:34  all    96     0   41    0       27       0      0      0    36
+14:55:34    0    52     0   18    0       14       0      0      0    16
+14:55:34    1    44     0   23    0       13       0      0      0    20
+
+14:55:29  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:55:34     3780M    587M     88M  1059M    3M    193M     2716M   2371M
+
+14:55:29  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:55:34  mmcblk0          4%    1.2    13.3    34.6     8.9   1.6   1.16 ms
+
+14:55:29  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:55:34  lo        ?    39.6    39.6        4        4     0     0       0
+14:55:34  enp2s0   6%  7689.6  7267.8     7792     7820    63    64    1000 f
+14:55:34  enp3s0   6%  7228.0  7726.6     7771     7838    63    64    1000 f
+14:55:34  br0       ? 14917.6     0.0    15359        0   125     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:55:34  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:55:39  all    78     0   47    0       30       0      0      1    45
+14:55:39    0    36     0   19    0       16       0      0      1    27
+14:55:39    1    42     0   27    0       14       0      0      0    17
+
+14:55:34  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:55:39     3780M    586M     88M  1059M    3M    193M     2716M   2371M
+
+14:55:34  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:55:39  mmcblk0          5%    0.2     4.0    61.5     7.7   1.6   0.79 ms
+
+14:55:34  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:55:39  lo        ?     6.4     6.4        0        0     0     0       0
+14:55:39  enp2s0   6%  7992.8  7545.4     7870     7791    64    63    1000 f
+14:55:39  enp3s0   6%  7570.2  7962.0     7822     7828    64    64    1000 f
+14:55:39  br0       ? 15563.0     0.0    15479        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:55:39  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:55:44  all    72     0   40    0       32       0      0      1    55
+14:55:44    0    44     0   13    0       17       0      0      1    25
+14:55:44    1    28     0   28    0       15       0      0      0    30
+
+14:55:39  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:55:44     3780M    587M     88M  1059M    0M    193M     2716M   2371M
+
+14:55:39  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:55:44  mmcblk0          6%    0.0     0.0   192.4     5.9   3.6   0.29 ms
+
+14:55:39  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:55:44  lo        ?     6.8     6.8        0        0     0     0       0
+14:55:44  enp2s0   6%  7841.8  7462.0     7820     7814    64    64    1000 f
+14:55:44  enp3s0   6%  7463.8  7859.8     7815     7853    64    64    1000 f
+14:55:44  br0       ? 15305.6     0.0    15426        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:55:44  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:55:49  all    73     0   43    0       29       0      0      1    55
+14:55:49    0    30     0   34    0       13       0      0      0    22
+14:55:49    1    42     0    9    0       15       0      0      1    33
+
+14:55:44  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:55:49     3780M    586M     88M  1059M    0M    193M     2716M   2371M
+
+14:55:44  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:55:49  mmcblk0          2%    0.0     0.0    11.9     7.6   6.7   1.86 ms
+
+14:55:44  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:55:49  lo        ?     6.0     6.0        0        0     0     0       0
+14:55:49  enp2s0   6%  7857.6  7501.2     7803     7815    63    64    1000 f
+14:55:49  enp3s0   6%  7474.6  7870.2     7782     7812    63    63    1000 f
+14:55:49  br0       ? 15332.2     0.0    15375        0   125     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:55:49  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:55:54  all    81     0   41    0       29       0      0      1    48
+14:55:54    0    32     0   27    0       13       0      0      0    27
+14:55:54    1    48     0   14    0       16       0      0      1    21
+
+14:55:49  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:55:54     3780M    586M     88M  1059M    0M    193M     2716M   2371M
+
+14:55:49  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:55:54  mmcblk0          6%    0.0     0.0    89.9     8.7   0.5   0.65 ms
+
+14:55:49  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:55:54  lo        ?    24.8    24.8        3        3     0     0       0
+14:55:54  enp2s0   6%  7890.4  7463.8     7878     7779    64    63    1000 f
+14:55:54  enp3s0   6%  7513.4  7852.6     7844     7825    64    64    1000 f
+14:55:54  br0       ? 15403.8     0.0    15511        0   127     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:55:54  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:55:59  all    75     0   46    0       28       0      0      0    50
+14:55:59    0    42     0   19    0       15       0      0      0    24
+14:55:59    1    33     0   27    0       13       0      0      0    27
+
+14:55:54  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:55:59     3780M    587M     88M  1059M    0M    193M     2716M   2371M
+
+14:55:54  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:55:59  mmcblk0          1%    0.0     0.0    17.0     8.7   0.5   0.87 ms
+
+14:55:54  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:55:59  lo        ?     6.0     6.0        0        0     0     0       0
+14:55:59  enp2s0   6%  7905.6  7575.0     7810     7851    63    64    1000 f
+14:55:59  enp3s0   6%  7543.2  7925.2     7800     7858    63    64    1000 f
+14:55:59  br0       ? 15448.8     0.0    15399        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:55:59  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:56:04  all   125     0   39    0       30       0      0      0     6
+14:56:04    0    70     0   12    0       16       0      0      0     3
+14:56:04    1    55     0   27    0       15       0      0      0     3
+
+14:55:59  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:56:04     3780M    582M     88M  1060M    0M    193M     2716M   2371M
+
+14:55:59  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:56:04  mmcblk0          7%    0.0     0.0    84.3     8.8   0.3   0.85 ms
+
+14:55:59  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:56:04  lo        ?    34.6    34.6        3        3     0     0       0
+14:56:04  enp2s0   6%  7371.6  7191.6     7530     7330    61    60    1000 f
+14:56:04  enp3s0   6%  7205.2  7362.8     7342     7511    60    61    1000 f
+14:56:04  br0       ? 14576.8     0.0    14673        0   120     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:56:04  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:56:09  all    83     0   43    0       33       0      0      1    40
+14:56:09    0    39     0   21    0       16       0      0      1    23
+14:56:09    1    44     0   22    0       17       0      0      0    17
+
+14:56:04  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:56:09     3780M    586M     88M  1060M    2M    193M     2716M   2371M
+
+14:56:04  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:56:09  mmcblk0          6%    0.2     4.0    43.4     8.9   2.6   1.32 ms
+
+14:56:04  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:56:09  lo        ?    41.0    41.0        5        5     0     0       0
+14:56:09  enp2s0   6%  8219.4  7967.2     8145     8288    66    67    1000 f
+14:56:09  enp3s0   6%  7977.0  8213.6     8308     8137    68    66    1000 f
+14:56:09  br0       ? 16196.6     0.0    16232        0   132     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:56:09  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:56:14  all   122     0   39    0       29       0      0      0    10
+14:56:14    0    65     0   14    0       15       0      0      0     5
+14:56:14    1    57     0   24    0       14       0      0      0     5
+
+14:56:09  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:56:14     3780M    586M     88M  1060M    2M    193M     2716M   2371M
+
+14:56:09  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:56:14  mmcblk0          5%    0.0     0.0    58.2     8.0   1.6   0.82 ms
+
+14:56:09  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:56:14  lo        ?    30.6    30.6        3        3     0     0       0
+14:56:14  enp2s0   6%  7635.6  7237.0     7670     7595    62    62    1000 f
+14:56:14  enp3s0   6%  7206.6  7656.0     7558     7698    61    63    1000 f
+14:56:14  br0       ? 14842.0     0.0    15026        0   123     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:56:14  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:56:19  all    84     0   40    0       30       0      0      0    46
+14:56:19    0    37     0   26    0       16       0      0      0    21
+14:56:19    1    47     0   14    0       14       0      0      0    25
+
+14:56:14  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:56:19     3780M    587M     88M  1060M    2M    193M     2716M   2371M
+
+14:56:14  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:56:19  mmcblk0          4%    0.0     0.0    57.9     8.8   0.4   0.68 ms
+
+14:56:14  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:56:19  lo        ?    36.4    36.4        4        4     0     0       0
+14:56:19  enp2s0   6%  7887.2  7566.2     7961     8001    65    65    1000 f
+14:56:19  enp3s0   6%  7581.8  7879.0     8025     7937    65    65    1000 f
+14:56:19  br0       ? 15469.6     0.0    15776        0   129     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:56:19  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:56:24  all    83     0   42    0       31       0      0      0    43
+14:56:24    0    43     0   17    0       16       0      0      0    25
+14:56:24    1    40     0   26    0       16       0      0      0    19
+
+14:56:19  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:56:24     3780M    585M     88M  1060M    2M    193M     2716M   2371M
+
+14:56:19  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:56:24  mmcblk0          3%    0.0     0.0    33.0     8.3   5.0   1.04 ms
+
+14:56:19  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:56:24  lo        ?     6.2     6.2        0        0     0     0       0
+14:56:24  enp2s0   6%  7906.6  7589.8     7844     7841    64    64    1000 f
+14:56:24  enp3s0   6%  7584.6  7900.2     7831     7837    64    64    1000 f
+14:56:24  br0       ? 15490.2     0.0    15462        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:56:24  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:56:29  all    80     0   48    0       29       0      0      1    41
+14:56:29    0    38     0   26    0       13       0      0      1    21
+14:56:29    1    42     0   21    0       16       0      0      0    21
+
+14:56:24  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:56:29     3780M    587M     88M  1060M    2M    193M     2716M   2371M
+
+14:56:24  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:56:29  mmcblk0          8%    0.0     0.0   115.4     8.3   0.4   0.66 ms
+
+14:56:24  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:56:29  lo        ?    17.6    17.6        1        1     0     0       0
+14:56:29  enp2s0   6%  7906.2  7540.8     7806     7805    63    63    1000 f
+14:56:29  enp3s0   6%  7519.6  7932.8     7781     7842    63    64    1000 f
+14:56:29  br0       ? 15425.8     0.0    15376        0   125     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:56:29  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:56:34  all    71     0   38    0       29       0      0      1    61
+14:56:34    0    29     0   23    0       14       0      0      0    33
+14:56:34    1    42     0   15    0       15       0      0      0    27
+
+14:56:29  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:56:34     3780M    586M     88M  1060M    2M    193M     2716M   2371M
+
+14:56:29  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:56:34  mmcblk0          4%    0.0     0.0    37.2     9.0   0.6   0.98 ms
+
+14:56:29  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:56:34  lo        ?     6.8     6.8        0        0     0     0       0
+14:56:34  enp2s0   6%  7844.2  7458.2     7871     7791    64    63    1000 f
+14:56:34  enp3s0   6%  7505.4  7806.2     7854     7822    64    64    1000 f
+14:56:34  br0       ? 15349.8     0.0    15515        0   127     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:56:34  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:56:39  all    74     0   44    0       31       0      0      1    50
+14:56:39    0    37     0   19    0       17       0      0      1    26
+14:56:39    1    37     0   25    0       15       0      0      0    23
+
+14:56:34  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:56:39     3780M    586M     88M  1060M    0M    193M     2716M   2371M
+
+14:56:34  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:56:39  mmcblk0          5%    0.2     4.0   116.1     6.0   1.7   0.45 ms
+
+14:56:34  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:56:39  lo        ?     5.8     5.8        0        0     0     0       0
+14:56:39  enp2s0   6%  7880.8  7563.2     7813     7823    64    64    1000 f
+14:56:39  enp3s0   6%  7540.0  7909.2     7787     7860    63    64    1000 f
+14:56:39  br0       ? 15420.6     0.0    15389        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:56:39  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:56:44  all    69     0   39    0       31       0      0      1    61
+14:56:44    0    25     0   27    0       14       0      0      0    33
+14:56:44    1    44     0   12    0       16       0      0      0    28
+
+14:56:39  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:56:44     3780M    586M     88M  1060M    0M    193M     2716M   2371M
+
+14:56:39  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:56:44  mmcblk0          4%    0.0     0.0    68.6     7.6   1.7   0.63 ms
+
+14:56:39  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:56:44  lo        ?     7.2     7.2        0        0     0     0       0
+14:56:44  enp2s0   6%  7833.6  7475.2     7805     7802    63    63    1000 f
+14:56:44  enp3s0   6%  7459.8  7819.4     7778     7802    63    63    1000 f
+14:56:44  br0       ? 15293.4     0.0    15374        0   125     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:56:44  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:56:49  all    77     0   47    0       30       0      0      0    46
+14:56:49    0    39     0   22    0       15       0      0      0    23
+14:56:49    1    38     0   25    0       14       0      0      0    22
+
+14:56:44  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:56:49     3780M    586M     88M  1060M    0M    193M     2716M   2371M
+
+14:56:44  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:56:49  mmcblk0          3%    0.0     0.0    38.8     7.3   1.3   0.80 ms
+
+14:56:44  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:56:49  lo        ?     6.6     6.6        0        0     0     0       0
+14:56:49  enp2s0   6%  7967.4  7542.4     7888     7805    64    63    1000 f
+14:56:49  enp3s0   6%  7579.6  7946.4     7859     7848    64    64    1000 f
+14:56:49  br0       ? 15547.0     0.0    15534        0   127     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:56:49  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:56:54  all    75     0   45    0       31       0      0      1    49
+14:56:54    0    36     0   27    0       14       0      0      1    23
+14:56:54    1    39     0   18    0       17       0      0      0    26
+
+14:56:49  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:56:54     3780M    586M     88M  1060M    0M    193M     2716M   2371M
+
+14:56:49  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:56:54  mmcblk0          5%    0.0     0.0    71.1     8.5   1.4   0.73 ms
+
+14:56:49  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:56:54  lo        ?     5.6     5.6        0        0     0     0       0
+14:56:54  enp2s0   6%  7905.0  7573.4     7810     7836    63    64    1000 f
+14:56:54  enp3s0   6%  7541.6  7917.4     7790     7828    63    64    1000 f
+14:56:54  br0       ? 15446.8     0.0    15389        0   126     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:56:54  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:56:59  all    93     0   36    0       28       0      0      0    43
+14:56:59    0    35     0   27    0       13       0      0      0    24
+14:56:59    1    58     0    9    0       15       0      0      0    18
+
+14:56:54  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:56:59     3780M    586M     88M  1060M    0M    193M     2716M   2371M
+
+14:56:54  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:56:59  mmcblk0          2%    0.0     0.0     5.3     6.9   7.3   3.54 ms
+
+14:56:54  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:56:59  lo        ?     6.4     6.4        0        0     0     0       0
+14:56:59  enp2s0   5%  7079.0  6790.2     7082     7065    58    57    1000 f
+14:56:59  enp3s0   5%  6820.6  7066.4     7096     7077    58    57    1000 f
+14:56:59  br0       ? 13899.4     0.0    13988        0   114     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:56:59  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:57:04  all   126     0   41    0       31       0      0      0     3
+14:57:04    0    69     0   15    0       15       0      0      0     1
+14:57:04    1    57     0   25    0       16       0      0      0     2
+
+14:56:59  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:57:04     3780M    580M     88M  1060M    0M    193M     2716M   2371M
+
+14:56:59  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:57:04  mmcblk0          2%    0.2     4.0     0.6    24.0   0.9  20.00 ms
+
+14:56:59  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:57:04  lo        ?    44.2    44.2        5        5     0     0       0
+14:57:04  enp2s0   6%  8116.6  7668.6     8370     8157    68    66    1000 f
+14:57:04  enp3s0   6%  7656.8  8121.6     8150     8380    66    68    1000 f
+14:57:04  br0       ? 15773.4     0.0    16304        0   133     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:57:04  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:57:09  all    80     0   44    0       33       0      0      1    42
+14:57:09    0    48     0   15    0       17       0      0      0    20
+14:57:09    1    32     0   29    0       16       0      0      0    22
+
+14:57:04  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:57:09     3780M    584M     88M  1060M    2M    193M     2716M   2371M
+
+14:57:04  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:57:09  mmcblk0         12%    0.0     0.0   149.1     8.5   0.9   0.83 ms
+
+14:57:04  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:57:09  lo        ?    48.4    48.4        5        5     0     0       0
+14:57:09  enp2s0   6%  8062.0  7791.6     8014     8164    65    66    1000 f
+14:57:09  enp3s0   6%  7790.4  8054.0     8159     8003    66    65    1000 f
+14:57:09  br0       ? 15852.4     0.0    15957        0   130     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:57:09  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:57:14  all    54     0   30    0       22       0      0      1    93
+14:57:14    0    18     0   23    0       10       0      0      0    48
+14:57:14    1    36     0    7    0       12       0      0      1    45
+
+14:57:09  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:57:14     3780M    587M     88M  1060M    2M    193M     2716M   2371M
+
+14:57:09  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:57:14  mmcblk0          3%    0.0     0.0    53.2     7.4   2.3   0.62 ms
+
+14:57:09  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:57:14  lo        ?     3.8     3.8        0        0     0     0       0
+14:57:14  enp2s0   4%  5498.4  5297.8     5577     5593    45    45    1000 f
+14:57:14  enp3s0   4%  5266.2  5533.4     5566     5609    45    45    1000 f
+14:57:14  br0       ? 10764.6     0.2    10995        0    90     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:57:14  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:57:19  all    13     0   12    0        0       0      0      3   172
+14:57:19    0     7     0    9    0        0       0      0      3    81
+14:57:19    1     6     0    3    0        0       0      0      0    91
+
+14:57:14  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:57:19     3780M    586M     88M  1060M    2M    193M     2716M   2371M
+
+14:57:14  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:57:19  mmcblk0          6%    0.0     0.0   123.3     8.3   1.2   0.48 ms
+
+14:57:14  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:57:19  lo        ?     6.8     6.8        0        0     0     0       0
+14:57:19  enp2s0   0%     9.8    10.2        1        1     0     0    1000 f
+14:57:19  enp3s0   0%     9.8     9.4        1        1     0     0    1000 f
+14:57:19  br0       ?    19.6     0.4        2        0     0     0       0
+
+-------------------------- analysis date: 2022/10/11 --------------------------
+
+14:57:19  cpu  %usr %nice %sys %irq %softirq  %steal %guest  %wait %idle  _cpu_
+14:57:24  all    12     0   13    0        0       0      0      2   173
+14:57:24    0     9     0    9    0        0       0      0      2    80
+14:57:24    1     3     0    4    0        0       0      0      0    93
+
+14:57:19  memtotal memfree buffers cached dirty slabmem  swptotal swpfree _mem_
+14:57:24     3780M    586M     88M  1060M    2M    193M     2716M   2371M
+
+14:57:19  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
+14:57:24  mmcblk0          5%    0.0     0.0   106.3     8.2   1.2   0.47 ms
+
+14:57:19  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
+14:57:24  lo        ?     9.2     9.2        1        1     0     0       0
+14:57:24  enp2s0   0%    20.8    15.0       16        3     0     0    1000 f
+14:57:24  enp3s0   0%    14.6    20.0        3       16     0     0    1000 f
+14:57:24  br0       ?    35.0     0.4       19        0     0     0       0
