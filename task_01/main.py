@@ -1,5 +1,5 @@
 import csv
-path = 'data/01_data_clean'
+path = 'data/08_data_max'
 file1 = open(path + '.txt', 'r')
 
 Lines = file1.readlines()
