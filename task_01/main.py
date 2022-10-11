@@ -1,12 +1,13 @@
 import csv
-file1 = open('C:\programovani\KTI_datapickup\data1.txt', 'r')
+path = 'data/01_data_clean'
+file1 = open(path + '.txt', 'r')
 
 Lines = file1.readlines()
 c=0
 header=["timestamp","cpu","mem free","disk","eth"]
 dataArr=[]
 ln=""
-f=open('countries.csv', 'w', encoding='UTF8',newline='')
+f=open(path + '.csv', 'w', encoding='UTF8',newline='')
 writer = csv.writer(f)
 writer.writerow(header)
 for line in Lines:
