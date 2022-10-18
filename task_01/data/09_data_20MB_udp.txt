@@ -27,7 +27,7 @@
 19:57:34     3780M   1033M     70M   939M    1M    168M     2716M   2322M
 
 19:57:33  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
-19:57:34  
+19:57:34  mmcblk0          9%    0.0     0.0   142.1     8.6   0.5   0.65 ms
 
 19:57:33  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
 19:57:34  enp2s0   0%     5.0     1.0        1        0     0     0    1000 f
@@ -45,7 +45,7 @@
 19:57:35     3780M   1033M     70M   939M    1M    168M     2716M   2322M
 
 19:57:34  disk           busy read/s KB/read  writ/s KB/writ avque avserv _dsk_
-19:57:35  
+19:57:35  mmcblk0          9%    0.0     0.0   142.1     8.6   0.5   0.65 ms
 
 19:57:34  interf busy ipack/s opack/s iKbyte/s oKbyte/s imbps ombps maxmbps_if_
 19:57:35  lo        ?   214.0   214.0       19       19     0     0       0  
