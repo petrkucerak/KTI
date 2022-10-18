@@ -1,5 +1,5 @@
 import csv
-path = 'data/09_data_20MB_udp'
+path = 'data/11_data_noload'
 file1 = open(path + '.txt', 'r')
 
 Lines = file1.readlines()
