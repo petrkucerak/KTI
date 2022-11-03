@@ -1,4 +1,4 @@
-timestamp,cpu,mem free,disk,eth,
+timestamp,cpu,mem free,disk,eth
 19:57:33,9,1033M,9%,0%,0%
 19:57:34,159,1033M,9%,0%,0%
 19:57:35,160,1033M,9%,0%,0%
