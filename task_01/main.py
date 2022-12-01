@@ -4,7 +4,7 @@ file1 = open(path + '.txt', 'r')
 
 Lines = file1.readlines()
 c=0
-header=["timestamp","cpu","mem free","disk","eth"]
+header=["timestamp","cpu","mem free","disk","eth","iKbyte/s","imbps"]
 dataArr=[]
 ln=""
 lastDval = ""
@@ -45,11 +45,15 @@ for line in Lines:
         arr = line.split()
         if(arr[1]=="enp2s0"):
             dataArr.append(arr[2])
+            dataArr.append(arr[5])
+            dataArr.append(arr[7])
             ln += " enp2: " + arr[2]
     elif c == 15:
         arr = line.split()
         if (arr[1] == "enp2s0"):
             dataArr.append(arr[2])
+            dataArr.append(arr[5])
+            dataArr.append(arr[7])
             ln += " enp2: " + arr[2]
         elif(arr[1]== "enp3s0"):
             dataArr.append(arr[2])
