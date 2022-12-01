@@ -1,5 +1,5 @@
 import csv
-path = 'data/11_data_noload'
+path = 'data/IDS/20'
 file1 = open(path + '.txt', 'r')
 
 Lines = file1.readlines()
@@ -56,9 +56,10 @@ for line in Lines:
             ln += " enp3: " + arr[2] +"\n"
     elif c == 16:
         arr = line.split()
-        if (arr[1] == "enp3s0"):
-            dataArr.append(arr[2])
-            ln += " enp3: " + arr[2] + "\n"
+        if(len(arr)>1):
+            if (arr[1] == "enp3s0"):
+                dataArr.append(arr[2])
+                ln += " enp3: " + arr[2] + "\n"
 
 
 
