@@ -1,5 +1,5 @@
 import csv
-path = 'data/IDS/20'
+path = 'data/IDS/max'
 file1 = open(path + '.txt', 'r')
 
 Lines = file1.readlines()
