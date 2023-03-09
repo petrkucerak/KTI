@@ -1,0 +1,16 @@
+﻿"Alert Signature","Alert Category",Count
+"SURICATA STREAM Packet with invalid timestamp","Generic Protocol Command Decode","3,623"
+"SURICATA HTTP unable to match response to request","Generic Protocol Command Decode","1,249"
+"ET SCAN Potential SSH Scan OUTBOUND","Attempted Information Leak",347
+"GPL WEB_SERVER 403 Forbidden","Attempted Information Leak",114
+"GPL WEB_SERVER DELETE attempt","access to a potentially vulnerable web application",102
+"ET SCAN Nmap Scripting Engine User-Agent Detected (Nmap Scripting Engine)","Web Application Attack",30
+"ET SCAN Possible Nmap User-Agent Observed","Web Application Attack",30
+"GPL ICMP_INFO PING *NIX","Misc activity",22
+"ET SCAN Potential SSH Scan","Attempted Information Leak",12
+"SURICATA Applayer Mismatch protocol both directions","Generic Protocol Command Decode",12
+"SURICATA HTTP Host header invalid","Generic Protocol Command Decode",11
+"SURICATA HTTP Unexpected Request body","Generic Protocol Command Decode",11
+"ET SCAN LibSSH Based Frequent SSH Connections Likely BruteForce Attack","Attempted Administrator Privilege Gain",9
+"ET SCAN Potential VNC Scan 5800-5820","Attempted Information Leak",6
+"ET SCAN Potential VNC Scan 5900-5920","Attempted Information Leak",6

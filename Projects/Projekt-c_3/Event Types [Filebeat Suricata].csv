@@ -1,0 +1,9 @@
+﻿"ECS Event Type",Count,"Suricata Event Type",Count
+connection,"19,253",flow,"19,253"
+protocol,"17,068",http,"14,491"
+protocol,"17,068",ssh,"1,744"
+protocol,"17,068",dns,782
+protocol,"17,068",tls,51
+end,"14,588",flow,"14,588"
+access,"14,491",http,"14,491"
+start,"4,324",flow,"4,324"
